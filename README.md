@@ -1,104 +1,165 @@
 # 함종하 | Jongha Ham
 
-> KR: UI부터 백엔드, 클라우드, AI 음성 처리, 로봇 워크플로까지 직접 연결해 동작하는 제품을 만드는 개발자입니다.  
-> EN: I build practical products across frontend, backend, cloud, AI voice systems, and robotics workflows.
+### Full-stack Developer · AI Voice Product Builder · Robotics Software Learner
 
 <p>
   <a href="mailto:jongha0315@gmail.com"><img src="https://img.shields.io/badge/Email-jongha0315%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/jjong-haya"><img src="https://img.shields.io/badge/GitHub-jjong--haya-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jjong-haya&style=flat-square&color=2563EB" alt="Profile views" />
 </p>
 
-## About / 소개
+I build product flows that connect UI, API, data, cloud infrastructure, and AI workflows into one working service.
 
-- KR: React, TypeScript, Supabase 기반의 웹 서비스와 AWS 기반 AI 서비스를 만들고 있습니다.
-- EN: I work on React/TypeScript web platforms, Supabase-backed products, and AWS-based AI services.
-- KR: 프론트엔드 구현뿐 아니라 인증, 권한, 데이터베이스, 배포 구조까지 함께 설계하는 것을 선호합니다.
-- EN: I like connecting UI, authentication, authorization, database design, and deployment into one working product.
-- KR: PTLog에서는 오디오 녹음/업로드, STT/오디오 LLM 분석, 구조화 JSON 파싱, 실시간 WebSocket 세션 흐름을 다뤘습니다.
-- EN: In PTLog, I worked with audio recording/upload, STT/audio LLM parsing, structured JSON output, and realtime WebSocket session flows.
-- KR: 로봇 동아리 KOBOT 관련 서비스와 Python/C++ 기반 로봇 소프트웨어에도 관심이 있습니다.
-- EN: I am also interested in robotics software with Python, C++, ROS 2, and Linux.
+사용자가 바로 체감할 수 있는 서비스를 만들기 위해 프론트엔드, 백엔드, 데이터 모델, 인증/권한, AI 파이프라인을 함께 설계하고 구현합니다.
 
-## Tech Stack / 기술 스택
+---
 
-### Frontend
+## Profile
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+| Area | Summary |
+| --- | --- |
+| Main Focus | Full-stack product engineering, AI voice interfaces, club/team operation platforms |
+| Product Style | Practical workflows, admin tools, member management, realtime interaction, automation |
+| Engineering Strength | UI/API integration, auth and permission modeling, structured AI output, deployment-aware design |
+| Current Interests | AI voice logging, LLM workflow reliability, robotics software, cloud architecture |
 
-### Backend, Database, Cloud
+## Core Skills
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Frontend**: React, TypeScript, Vite, Tailwind CSS, Flutter, Riverpod
+- **Backend**: NestJS, Express, Node.js, TypeORM, REST API, Swagger/OpenAPI
+- **Database & Infra**: PostgreSQL, Supabase, MySQL, Redis, Firebase, AWS, S3, Lambda, Docker, Terraform
+- **AI & Voice**: Gemini, OpenAI, audio LLM parsing, STT transcript parsing, structured JSON output, Zod schema validation
+- **Realtime & Ops**: Socket.IO, WebSocket, JWT reauth flow, Prometheus metrics, Sentry monitoring
+- **Robotics**: Python, C++, ROS 2, Linux-based robotics workflows
 
-### API, Auth, Realtime, Observability
+## Tech Stack
 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
-![Kakao Login](https://img.shields.io/badge/Kakao_Login-FFCD00?style=flat-square&logo=kakao&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+### Product Engineering
 
-### AI, Voice, Mobile, Robotics
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Audio LLM](https://img.shields.io/badge/Audio_LLM-7C3AED?style=flat-square)
-![STT](https://img.shields.io/badge/STT-0F766E?style=flat-square)
-![Structured Output](https://img.shields.io/badge/Structured_Output-111827?style=flat-square)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+### Server, Data, Infrastructure
 
-## Featured Projects / 대표 프로젝트
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-| Project | KR | EN | Stack |
-| --- | --- | --- | --- |
-| [Kmu_Kobot_Web](https://github.com/jjong-haya/Kmu_Kobot_Web) | KOBOT 운영을 위한 회원, 권한, 프로젝트, 공지, 공간 예약, GitHub 연동 플랫폼 | Member/admin platform for KOBOT operations with auth, RBAC, projects, notices, bookings, and GitHub sync | React, TypeScript, Supabase, RLS, React Query |
-| PTLog AI Voice Platform (private team project) | PT 트레이너의 수업 녹음/오디오 업로드를 운동일지 JSON으로 변환하는 AI 음성 기록 플랫폼 | AI voice workout logging platform that turns PT session audio into structured workout-log JSON | Flutter, Riverpod, Dio, NestJS, TypeORM, PostgreSQL, Redis, Socket.IO, Gemini, OpenAI, Zod, S3, Prometheus |
-| [K-Game](https://github.com/jjong-haya/K-Game) | Daily Word와 Prompt Room을 포함한 AWS 기반 AI 게임 서비스 | AWS-based AI game service with Daily Word and Prompt Room | React, Express, AWS Lambda, RDS MySQL, Terraform, Bedrock |
-| [kmu-conquest](https://github.com/jjong-haya/kmu-conquest) | 국민대 캠퍼스 건물 점령전 모바일 게임 | Flutter mobile game for campus building conquest | Flutter, Dart, Supabase, Riverpod, Google Maps, Geolocation |
-| [kobot-website](https://github.com/jjong-haya/kobot-website) | 국민대학교 로봇 동아리 KOBOT 공식 웹사이트 | Official website for Kookmin University robotics club KOBOT | React, TypeScript, Vite, Supabase, Tailwind CSS |
-| [jjminigames](https://github.com/jjong-haya/jjminigames) | 미니게임 웹 플랫폼과 TypeScript 기반 API 서버 | Mini-games web platform with a TypeScript API server | React, Vite, Express, Firebase, TypeScript |
+### AI, Voice, Robotics
 
-## GitHub Stats / 활동
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+---
+
+## Selected Projects
+
+### PTLog AI Voice Platform
+
+> AI voice workout logging platform that turns PT session audio into structured workout-log JSON.
+
+PT 트레이너의 수업 녹음과 오디오 업로드를 운동일지 JSON으로 변환하는 AI 음성 기록 플랫폼입니다.
+
+- Flutter 앱에서 운동별 음성 녹음, 오디오 파일 업로드, 분석 상태 UI를 구현했습니다.
+- NestJS 백엔드에서 Gemini Audio LLM 기반 오디오 분석과 OpenAI/Gemini 텍스트 LLM 추상화를 구성했습니다.
+- Zod 스키마를 JSON Schema로 변환해 LLM 구조화 출력을 강제하고, 운동명/세트/피드백 데이터를 안정적으로 파싱했습니다.
+- Redis와 Socket.IO 기반 실시간 AI 세션 구조, 세션 재인증, 오디오 청크 ack/reject 흐름을 다뤘습니다.
+- Prometheus와 Sentry를 통해 오디오 길이, LLM 호출 지연, 토큰 사용량, 실패율을 관측할 수 있게 설계했습니다.
+
+**Role**: Full-stack · AI Integration · Backend Architecture  
+**Tech**: `Flutter` `Riverpod` `Dio` `NestJS` `TypeORM` `PostgreSQL` `Redis` `Socket.IO` `Gemini` `OpenAI` `Zod` `S3` `Prometheus`
+
+### Kmu_Kobot_Web
+
+> KOBOT operations platform for members, permissions, projects, notices, bookings, and GitHub sync.
+
+국민대학교 로봇 동아리 KOBOT 운영을 위한 회원/권한/프로젝트/공지/공간 예약 플랫폼입니다.
+
+- React와 TypeScript 기반으로 운영자와 회원이 함께 사용하는 웹 워크스페이스를 구현했습니다.
+- Supabase Auth, PostgreSQL RLS, 역할 기반 권한 모델을 활용해 기능별 접근 제어를 설계했습니다.
+- 회원 승인, 공지, 프로젝트 모집/관리, 공간 예약, GitHub 연동 흐름을 하나의 운영 플랫폼으로 연결했습니다.
+- 문서화와 마이그레이션을 함께 관리하며 실제 조직 운영에 필요한 변경 이력을 남겼습니다.
+
+**Role**: Frontend · Backend Integration · Permission Design  
+**Tech**: `React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `RLS` `React Query`
+
+### K-Game
+
+> AWS-based AI game service with Daily Word and Prompt Room.
+
+Daily Word와 Prompt Room을 포함한 AWS 기반 AI 게임 서비스입니다.
+
+- React 프론트엔드와 Express API 서버를 분리한 3-tier 서비스 구조를 구성했습니다.
+- AWS Lambda를 실시간 AI 응답, 힌트 생성, Daily Word 배치 생성 역할로 분리했습니다.
+- RDS MySQL, EC2, S3, Lambda, Terraform을 활용해 인프라 구조를 코드와 문서로 정리했습니다.
+- 제한된 IAM 권한 환경에서 배포 제약을 분석하고 가능한 우회 설계를 README에 명확히 남겼습니다.
+
+**Role**: Full-stack · Cloud Architecture · AI Feature Design  
+**Tech**: `React` `Express` `AWS Lambda` `RDS MySQL` `Terraform` `Bedrock`
+
+### kmu-conquest
+
+> Campus building conquest mobile game built with Flutter, Supabase, and geolocation.
+
+국민대 캠퍼스 건물 점령전을 콘셉트로 한 위치 기반 모바일 게임입니다.
+
+- Flutter와 Riverpod 기반으로 지도, 위치, 시즌, 전투, 미션 화면을 구성했습니다.
+- Supabase 연동, Google Maps, geolocation, in-app purchase 등 모바일 서비스 요소를 실험했습니다.
+- GPS 필터링, 실내 감지, 지오펜스 체크 등 위치 기반 게임에 필요한 로직을 분리했습니다.
+
+**Role**: Mobile App Development · Location-based Game Logic  
+**Tech**: `Flutter` `Dart` `Supabase` `Riverpod` `Google Maps` `Geolocation`
+
+### kobot-website
+
+> Official website for Kookmin University robotics club KOBOT.
+
+국민대학교 로봇 동아리 KOBOT 공식 웹사이트입니다.
+
+- 동아리 소개, 활동, 프로젝트, 공지 흐름을 담은 공식 웹사이트를 구현했습니다.
+- React, TypeScript, Vite 기반으로 빠르게 배포 가능한 정적 웹 구조를 구성했습니다.
+
+**Role**: Frontend Development  
+**Tech**: `React` `TypeScript` `Vite` `Supabase` `Tailwind CSS`
+
+---
+
+## Activities
+
+### KOBOT Robotics Club
+
+- 로봇 동아리 운영과 프로젝트 흐름을 지원하는 웹 플랫폼을 개발했습니다.
+- 로봇/임베디드/자율주행 학습과 Python, C++, ROS 2 기반 소프트웨어에 관심을 두고 있습니다.
+
+### Full-stack and AI Product Projects
+
+- 실제 사용자가 반복적으로 수행하는 업무를 줄이는 웹 서비스와 AI 워크플로를 주로 만들고 있습니다.
+- 단순 데모보다 인증, 권한, 데이터 저장, 운영 화면, 배포 제약까지 포함한 서비스를 선호합니다.
+
+---
+
+## GitHub
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jjong-haya&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjong-haya&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-## Contact / 연락
+---
+
+## Contact
 
 - Email: [jongha0315@gmail.com](mailto:jongha0315@gmail.com)
 - GitHub: [github.com/jjong-haya](https://github.com/jjong-haya)
